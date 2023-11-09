@@ -5,4 +5,5 @@ In this repository, we are going to restore Jupyter notebook regarding the crawl
 (2)sub_gather.ipynb: Dig deep into the topics and gather the data.   
 (3)posts_influence.ipynb: Try to track the influence of the most influencial submissions to their comment authors (Problem: need to (4)scape more data and use more specific emotion analyzing tool.)    
 (5)sub_analyze.ipynb: Find keywords/valuable Issues related with the topics seperately.   
-
+Other ipynb files are just auxiliary tools.
+All the csv documents are the data I collected.
