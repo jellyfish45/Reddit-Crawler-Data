@@ -1,5 +1,5 @@
 # Reddit-Crawler-Data
-In this repository, we are going to restore Jupyter notebook regarding the crawling process and the dataset we get to help with future analysis.  
+In this repository, we are going to store Jupyter notebook regarding the crawling process and the dataset we get to help with future analysis.  
 ## Creation Timeline 
 (1)scrape_reddit.ipynb: Scraping data with a theme of "suicide" from reddit. And find relevant topics about it.
 
