@@ -5,7 +5,7 @@ In this repository, we are going to store Jupyter notebook regarding the crawlin
 
 (2)sub_gather.ipynb: Dig deep into the topics and gather the data.   
 
-(3)posts_influence.ipynb: Try to track the influence of the most influencial submissions to their comment authors (Problem: need to scape more data and use more specific emotion analyzing tool.)   
+(3)posts_influence.ipynb: Try to track the influence of the most influencial submissions to their comment authors (Problem: need to scape more data and use more specific emotion analyzing tool)   
 
 (4)sub_analyze.ipynb: Find keywords/valuable Issues related with the topics seperately. （Problem: need to dig deep) 
 
