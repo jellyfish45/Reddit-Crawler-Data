@@ -9,7 +9,9 @@ In this repository, we are going to store Jupyter notebook regarding the crawlin
 
 (4)sub_analyze.ipynb: Find keywords/valuable Issues related with the topics seperately. （Problem: need to dig deep) 
 
-(5)posts-influence: Try to analyze the posts'influence using "empath-client"
+(5)posts-influence.ipynb: Try to analyze the posts'influence using "empath-client"
+
+(6)Control_Group.ipynb: Find the control group (of the initial submission 3) and analyze them.
 
 Other ipynb files are just auxiliary tools.
 All the csv documents are the data I collected.
