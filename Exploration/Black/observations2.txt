@@ -1,0 +1,73 @@
+Overall
+    part. black women value specifically communities of black women a lot, not seeing as much from men (but also just looking at candidate docs for each topic)
+
+topic list is  (0, '0.070*"thread" + 0.051*"rule" + 0.023*"welcome" + 0.023*"civil" + 0.009*"encourage" + 0.009*"depressive" + 0.009*"expect" + 0.009*"view" + 0.008*"average" + 0.007*"gay"')
+
+General: 
+    Lack of racial identity (part. in college tho this could be sampling bias)
+    Not fitting in with community
+    Substances in others
+    Substances in self 
+    Beauty (thin, lighter, etc.)
+    System keeping us down
+In general, this topic cluster has a few parts.
+1. Struggle + being black while most ppl aren't (gonna group Stereotype Threat w this)
+2. Beauty 
+3. Not fitting in enough with the black culture 
+4. Drugs/alch in self o others
+
+
+Rep Doc 1: [academically inadequate, race salience, religion]
+    Feels academically/university-wise inadequate as compared to peers, emphasis on them being white vs them being black
+    Generalized to feeling average, religious aspect of God can't use me, everywhere else
+    if suicide weren't a sin I'd do it
+
+Req Doc 2: ["internalized racism", lack of racial identity, adopted family racism]
+
+Req Doc 5 i think: [family issues, body shaming + sexuality shaming + comparison]
+
+Req Doc 6: [sexual identity - family worry]
+
+Req Doc 8: [wanting to be lighter skinned]
+
+Req Doc 9: [system keeps us down]
+
+Req Doc 10: [beauty/physical prowess as compared to other black women]
+    Was she comparing self to other races before 
+
+Req Doc 11: [hair/beauty=exhausting]
+
+Req Doc 12: [different bc race]
+    Bring up black friends, don't teach me normally
+
+Req Doc 13: [less black people, people flock to white person]
+    trip to Brazil
+
+Req Doc 14: [drinking - personal]
+
+Req Doc 16: [toxic partners]
+    Partners on alch/drugs
+
+Req Doc 17: [Stereotype thread]
+    I have these problems (OCD, depression, etc.), don't want to rep all black women 
+
+Req Doc 19: [Beauty, not thin enough, body positive]
+    Can't tell if comparing to other black women or saying people don't find black women as attractive as they should
+
+Req Doc 20: [don't feel black]
+    Don't get along with people who 'act' black 
+
+topic list is (1, '0.023*"travel" + 0.009*"nervous" + 0.008*"consistent" + 0.006*"smoke" + 0.006*"singer" + 0.006*"girlfriend" + 0.004*"pool" + 0.004*"chime" + 0.004*"beginning" + 0.004*"simone"')
+
+General
+    not getting attention to guys -> I'm ugly 
+    being pregnant
+    social isolation/lack of routines (school started -> reminded am lonely)
+    community/purpose
+    inadequate
+
+
+topic list is  (4, '0.045*"figure" + 0.028*"cast" + 0.019*"bipolar" + 0.015*"scream" + 0.011*"treatment" + 0.009*"catch" + 0.008*"chronic" + 0.008*"system" + 0.007*"clearly" + 0.007*"double"')
+
+light colored skin pref in media 
+job search, wants help explicitly from ladies 

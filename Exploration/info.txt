@@ -1,0 +1,9 @@
+Basically, we chose m threads
+Searched them for k different topics
+Then took words associated with black people and said if it contains it, then log it w/ meta data
+
+So we can load in this data
+
+Task 1: Perform Topic Analysis Extraction to get related topics 
+Task 2: Display the top j documents of this type [fro each of l topics]
+Task 3: Add the associated reddit to a list and/or topics to look into so we can do manually upon user approval

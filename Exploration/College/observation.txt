@@ -1,0 +1,11 @@
+(0, '0.153*"bio" + 0.146*"file" + 0.074*"attendance" + 0.067*"master" + 0.059*"researcher" + 0.009*"devastate" + 0.008*"thesis" + 0.006*"willpower" + 0.005*"collapse" + 0.005*"envy"')
+    lots of people on graduation or on thesis defense (overwelmed or bored)
+    the earlier ones are either preexisting conditions (been diagnosed w/ mental anxiety or something) or another pivotol moment (choosing college major), also a grade freakout
+    on second note some of the "less representative" docs were junior/softmore
+
+
+topic list is  (1, '0.134*"school" + 0.051*"write" + 0.048*"apply" + 0.044*"research" + 0.042*"student" + 0.040*"application" + 0.031*"list" + 0.031*"program" + 0.028*"honor" + 0.026*"submit"')
+    lack of community (including age difference)
+
+topic list is  (9, '0.464*"design" + 0.093*"cell" + 0.000*"material" + 0.000*"junior" + 0.000*"blog" + 0.000*"th_th" + 0.000*"imperial" + 0.000*"publish" + 0.000*"scholarship" + 0.000*"conduct"')
+    familial suicide
