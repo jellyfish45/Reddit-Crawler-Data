@@ -1,0 +1,82 @@
+Seems to me NN with and without treatment best to check similarity?
+AND/OR ML kernel functions????
+
+But statistics from visualization
+
+Also I messed up earlier and was querying the same user data over and over again - and it did change - not by much but data might be slightly unreliable and/or changing. To this point, I reran and something judged statistically significant flipped.
+
+
+RESULTS
+
+Biggest differences
+
+We saw 16% difference in total, 
+bad event: with null hypothesis of they are from same distribution, the odds of seeing this result is less than 5% (assume they are same, odds that they are same are less than 5)
+#Note proprotion is float bc for comment-based data we tested with multiple days/posts that we varried
+
+proprtion good is 0.0 for commentkarma
+proprtion good is 0.0 for linkkarma
+proprtion good is 0.0 for numtrophies
+proprtion good is 0.38461538461538464 for numups
+proprtion good is 0.38461538461538464 for score
+proprtion good is 0.7307692307692307 for joyful
+proprtion good is 0.7307692307692307 for worried
+proprtion good is 0.7692307692307693 for anxious
+proprtion good is 0.7692307692307693 for gloomy
+proprtion good is 0.7692307692307693 for longly
+proprtion good is 0.7692307692307693 for optimistic
+proprtion good is 0.7692307692307693 for relieved
+proprtion good is 0.7692307692307693 for sad
+proprtion good is 0.8076923076923077 for content
+proprtion good is 0.8333333333333334 for numcomments
+proprtion good is 0.8461538461538461 for frustrated
+proprtion good is 0.8461538461538461 for loved
+proprtion good is 0.8461538461538461 for satisfied
+proprtion good is 0.8846153846153846 for nervous
+proprtion good is 0.9230769230769231 for disappointed
+proprtion good is 0.9230769230769231 for pleased
+
+______
+
+proprtion good is 0.9615384615384616 for angry
+proprtion good is 0.9615384615384616 for excited
+proprtion good is 0.9615384615384616 for grateful
+proprtion good is 0.9615384615384616 for happy
+proprtion good is 0.9615384615384616 for miserable
+proprtion good is 1.0 for date
+proprtion good is 1.0 for hassubreddit
+proprtion good is 1.0 for isedited
+proprtion good is 1.0 for isemployee
+proprtion good is 1.0 for isgold
+proprtion good is 1.0 for ismod
+proprtion good is 1.0 for issubmitter
+proprtion good is 1.0 for numdowns
+proprtion good is 1.0 for nummoderated
+proprtion good is 1.0 for nummultireddits
+proprtion good is 1.0 for numreplies
+proprtion good is 1.0 for numsubscribers
+proprtion good is 1.0 for over
+proprtion good is 1.0 for scoreishidden
+proprtion good is 1.0 for stickied
+proprtion good is 1.0 for timecreation
+proprtion good is 1.0 for totalawards
+proprtion good is 1.0 for verifiedemail
+
+
+NOTE: after I changed date to today a lot of them changed
+
+
+Questions
+When combining sentiment - I normalized all to 0 (score = score - SUM(scores)/len(emotions)) - should I do this?
+When combining sentiment over multiple posts I'm dividing by n. Should I do sqrt(n)? Important bc based on when we have data this n can be different 
+Should I do some kind of outlier dropping?
+
+tasks
+incorporate stats into control/treat
+pln: can specify want individual and timed fixed effect
+
+Matching
+isSuicidal if has word suicide in it
+can be negative (ex: abuse)
+
+papers: 

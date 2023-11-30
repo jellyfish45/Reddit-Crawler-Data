@@ -1,1 +1,60 @@
-blackladies 
+Biggest differences
+
+bad event: with null hypothesis of they are from same distribution, the odds of seeing this result is less than 5% (assume they are same, odds that they are same are less than 5)
+#Note proprotion is float bc for comment-based data we tested with multiple days/posts that we varried
+
+
+
+Over
+proprtion good is 0.0 for commentkarma
+proprtion good is 0.0 for linkkarma
+proprtion good is 0.0 for numtrophies
+proprtion good is 0.46153846153846156 for numups
+proprtion good is 0.46153846153846156 for score
+proprtion good is 0.7692307692307693 for joyful
+proprtion good is 0.7692307692307693 for optimistic
+proprtion good is 0.7692307692307693 for sad
+proprtion good is 0.7692307692307693 for worried
+proprtion good is 0.8076923076923077 for anxious
+proprtion good is 0.8076923076923077 for content
+proprtion good is 0.8076923076923077 for gloomy
+proprtion good is 0.8076923076923077 for longly
+proprtion good is 0.8076923076923077 for relieved
+proprtion good is 0.8461538461538461 for loved
+proprtion good is 0.8461538461538461 for satisfied
+proprtion good is 0.8846153846153846 for frustrated
+proprtion good is 0.9230769230769231 for disappointed
+proprtion good is 0.9230769230769231 for nervous
+proprtion good is 0.9230769230769231 for pleased
+proprtion good is 0.9615384615384616 for excited
+proprtion good is 0.9615384615384616 for grateful
+proprtion good is 0.9615384615384616 for happy
+proprtion good is 1.0 for angry
+proprtion good is 1.0 for date
+proprtion good is 1.0 for hassubreddit
+proprtion good is 1.0 for isedited
+proprtion good is 1.0 for isemployee
+proprtion good is 1.0 for isgold
+proprtion good is 1.0 for ismod
+proprtion good is 1.0 for issubmitter
+proprtion good is 1.0 for miserable
+proprtion good is 1.0 for numcomments
+proprtion good is 1.0 for numdowns
+proprtion good is 1.0 for nummoderated
+proprtion good is 1.0 for nummultireddits
+proprtion good is 1.0 for numreplies
+proprtion good is 1.0 for numsubscribers
+proprtion good is 1.0 for over
+proprtion good is 1.0 for scoreishidden
+proprtion good is 1.0 for stickied
+proprtion good is 1.0 for timecreation
+proprtion good is 1.0 for totalawards
+proprtion good is 1.0 for verifiedemail
+
+NOTE: after I changed date to today a lot of them changed
+NOTE: comparison is by date for the comment data (imperfectly) - not for the base data
+
+Questions
+When combining sentiment - I normalized all to 0 (score = score - SUM(scores)/len(emotions)) - should I do this?
+When combining sentiment over multiple posts I'm dividing by n. Should I do sqrt(n)? Important bc based on when we have data this n can be different 
+Should I do some kind of outlier dropping?
