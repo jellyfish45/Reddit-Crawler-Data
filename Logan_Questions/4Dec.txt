@@ -1,0 +1,8 @@
+1) How many neighbors do we need 
+2) How close do we need to match 
+3) Is matching on everything practical 
+
+
+Notes to self 
+draw.io 
+
