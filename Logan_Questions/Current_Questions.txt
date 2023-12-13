@@ -1,0 +1,17 @@
+Should I exclude people from study?
+    Looking at plot, there's a few outliers in treatment group we're having trouble matching
+
+user_comparison_std_mean_diff.ipynb - should I normalize before PCA here? Is PCA on just selected train + control groups good?
+---BOTTOM OF FILE 
+
+PCA - cutoff of 80 varaince explanation
+
+Using 0.2 for this
+
+
+
+TODOS
+- for analysis - on topics that have score >.2 -> invalid check coefficient in propensity score matching to see if its important 
+---- as long as are significant, we should include 
+Normalize -> rank importance by coefficient in propensity score 
+For outliers in treatment group, look at where they outlie (which features)

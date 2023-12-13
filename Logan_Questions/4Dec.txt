@@ -6,3 +6,22 @@
 Notes to self 
 draw.io 
 
+
+TODOS 
+    Remaining
+        Importance of features from propesnity score matching -> when analyzing
+
+
+
+    Done
+        for matching, do PCA first (should add weights automatically from this)
+        Propensity score matching 
+        Max-min -> sigma
+        Standardized mean difference for analysis instead
+
+Less urgent TODOS 
+- set up db for reddit data
+
+For each of variables do standardized mean distance (difference in mean of both group)
+
+When run propensity score can look at importance of difference features
