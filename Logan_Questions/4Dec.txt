@@ -11,8 +11,6 @@ TODOS
     Remaining
         Importance of features from propesnity score matching -> when analyzing
 
-
-
     Done
         for matching, do PCA first (should add weights automatically from this)
         Propensity score matching 

@@ -11,7 +11,30 @@ Using 0.2 for this
 
 
 TODOS
+Clean up code (this is actually important rn bc I'll be gone for two wks)
 - for analysis - on topics that have score >.2 -> invalid check coefficient in propensity score matching to see if its important 
 ---- as long as are significant, we should include 
 Normalize -> rank importance by coefficient in propensity score 
 For outliers in treatment group, look at where they outlie (which features)
+
+Distribution of propensity score for treatment + control
+
+Code for analyzing treatment effect
+
+Big data problems bc we have small data
+Kernel functions!!!!!!
+NN w random noise?
+Transformer/RNN
+
+
+Okay kernel is good for explanability!
+
+
+Start w/ lienar -> poly (deg 2/3)
+https://www.gatsby.ucl.ac.uk/~gretton/papers/florida22.pdf
+https://www.nature.com/articles/s43017-023-00431-y
+
+This is what the paper she sent me is on for making this causal model 
+    That design for processing temporal
+
+

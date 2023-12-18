@@ -15,3 +15,16 @@ In this repository, we are going to store Jupyter notebook regarding the crawlin
 
 Other ipynb files are just auxiliary tools.
 All the csv documents are the data I collected.
+
+
+Dataset Expansion
+    data_collection.ipynb: Code for collecting data to be used in analysis
+    feature_creation_corrected.ipynb: Code for selecting a matched control group from a treatment group
+    dataset_assumptions.txt: any assumptions in our dataset
+
+GroupComparison
+    notes.txt: old notes, will prob delete soon
+    user_comparison_std_mean_diff.ipynb: Do standardize mean difference + standardized mean difference w/ PCA given control, treatment, date of interest
+    user_group_comaprison.ipynb: same as above but assume same distribution, are they different? Not in use rn
+Logan_Questions
+    Logan's Notes on meetings
