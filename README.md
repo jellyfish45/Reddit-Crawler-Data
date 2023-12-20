@@ -22,9 +22,25 @@ Dataset Expansion
     feature_creation_corrected.ipynb: Code for selecting a matched control group from a treatment group
     dataset_assumptions.txt: any assumptions in our dataset
 
+    ***If you want to scrape data from a set of usernames, go to data_collection.ipynb, look at the first cell and run based on that 
+
 GroupComparison
     notes.txt: old notes, will prob delete soon
-    user_comparison_std_mean_diff.ipynb: Do standardize mean difference + standardized mean difference w/ PCA given control, treatment, date of interest
+    user_comparison_std_mean_diff.ipynb: Do standardize mean difference + standardized mean difference w/ PCA given control, treatment, date of interest, analyze propensity scores 
+        Note: to run this replace the control and treatment lists with your control/treatment lists 
+
     user_group_comaprison.ipynb: same as above but assume same distribution, are they different? Not in use rn
+        This is the old one I used - I think we moved away from this approach but I like it bc it is robust in a different way so not deleting it yet
+
+
+DatasetPrediction/Shap
+    I have a double ML model - this might be overkill bc we're matching, but looking into SHAP values and double ML as means of regression - not yet finished
+
 Logan_Questions
     Logan's Notes on meetings
+
+
+Logan TODOS
+- EXPORT CUSTOM REDDITOR CLASS TO FILE TO LOAD FROM
+- DOUBLE ML/SHAP
+- More control group data gathering

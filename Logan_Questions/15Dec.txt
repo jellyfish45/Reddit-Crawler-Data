@@ -2,7 +2,7 @@ TODOS (I won't be able to get all these done but lets see how far we get)
     Clean up code (this is actually important rn bc I'll be gone for two wks)
     - for analysis - on topics that have score >.2 -> invalid check coefficient in propensity score matching to see if its important 
     ---- as long as are significant, we should include 
-    Normalize -> rank importance by coefficient in propensity score 
+    
     For outliers in treatment group, look at where they outlie (which features)
     
     Code for analyzing treatment effect (kernel functions looking fire)
@@ -13,8 +13,10 @@ TODOS (I won't be able to get all these done but lets see how far we get)
 
 DONE
     Clean Up Partially
+    Normalize -> rank importance by coefficient in propensity score 
     Coefficients are done (but not analyzed) - also have summed abs value of all em
         No p scores, can replace w/ logistic regression if needed (and I think those will have p values)
     Distribution of propensity score for treatment + control (these r hella good - it can't figure it out from the data we provided)
+    Started looking into double ml
 
     
