@@ -1,0 +1,12 @@
+1. Add matching to powerpoint - DONE
+2. Clean up matching code - DONE
+3. Add group analysis stats to powerpoint - DONE
+4. Clean up that code - DONE
+
+Send availability to prof - DONE
+Do powerpoint immedietly - DONE
+
+
+TODO 
+document data filtering process (everything on twitter -> what's relevant for us)
+rerun on more treat datasets
